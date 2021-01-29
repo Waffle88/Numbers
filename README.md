@@ -1,2 +1,2 @@
 # Numbers
-1 million lines of code, 23 days to fully run the script
+1 million lines of code, a few days to fully run the script
